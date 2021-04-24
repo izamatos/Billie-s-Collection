@@ -1,0 +1,7 @@
+C:\Users\Izabella\source\repos\ColeçaoDeAlbunsBillie\bin\Debug\ColeçaoDeAlbunsBillie.exe.config
+C:\Users\Izabella\source\repos\ColeçaoDeAlbunsBillie\bin\Debug\ColeçaoDeAlbunsBillie.exe
+C:\Users\Izabella\source\repos\ColeçaoDeAlbunsBillie\bin\Debug\ColeçaoDeAlbunsBillie.pdb
+C:\Users\Izabella\source\repos\ColeçaoDeAlbunsBillie\obj\Debug\ColeçaoDeAlbunsBillie.csprojAssemblyReference.cache
+C:\Users\Izabella\source\repos\ColeçaoDeAlbunsBillie\obj\Debug\ColeçaoDeAlbunsBillie.csproj.CoreCompileInputs.cache
+C:\Users\Izabella\source\repos\ColeçaoDeAlbunsBillie\obj\Debug\ColeçaoDeAlbunsBillie.exe
+C:\Users\Izabella\source\repos\ColeçaoDeAlbunsBillie\obj\Debug\ColeçaoDeAlbunsBillie.pdb
