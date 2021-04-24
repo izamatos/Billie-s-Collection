@@ -1,0 +1,42 @@
+C:\Users\Izabella\source\repos\Billie Album Collection\bin\Debug\net5.0\Billie Album Collection.exe
+C:\Users\Izabella\source\repos\Billie Album Collection\bin\Debug\net5.0\Billie Album Collection.deps.json
+C:\Users\Izabella\source\repos\Billie Album Collection\bin\Debug\net5.0\Billie Album Collection.runtimeconfig.json
+C:\Users\Izabella\source\repos\Billie Album Collection\bin\Debug\net5.0\Billie Album Collection.runtimeconfig.dev.json
+C:\Users\Izabella\source\repos\Billie Album Collection\bin\Debug\net5.0\Billie Album Collection.dll
+C:\Users\Izabella\source\repos\Billie Album Collection\bin\Debug\net5.0\ref\Billie Album Collection.dll
+C:\Users\Izabella\source\repos\Billie Album Collection\bin\Debug\net5.0\Billie Album Collection.pdb
+C:\Users\Izabella\source\repos\Billie Album Collection\bin\Debug\net5.0\Album.Business.dll
+C:\Users\Izabella\source\repos\Billie Album Collection\bin\Debug\net5.0\Album.Business.pdb
+C:\Users\Izabella\source\repos\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.csprojAssemblyReference.cache
+C:\Users\Izabella\source\repos\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Izabella\source\repos\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.AssemblyInfoInputs.cache
+C:\Users\Izabella\source\repos\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.AssemblyInfo.cs
+C:\Users\Izabella\source\repos\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.csproj.CoreCompileInputs.cache
+C:\Users\Izabella\source\repos\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.csproj.CopyComplete
+C:\Users\Izabella\source\repos\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.dll
+C:\Users\Izabella\source\repos\Billie Album Collection\obj\Debug\net5.0\ref\Billie Album Collection.dll
+C:\Users\Izabella\source\repos\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.pdb
+C:\Users\Izabella\source\repos\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.genruntimeconfig.cache
+C:\Users\Izabella\source\repos\Billie Album Collection\bin\Debug\net5.0\Album.Infrastructure.dll
+C:\Users\Izabella\source\repos\Billie Album Collection\bin\Debug\net5.0\Album.Infrastructure.pdb
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\bin\Debug\net5.0\Billie Album Collection.exe
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\bin\Debug\net5.0\Billie Album Collection.deps.json
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\bin\Debug\net5.0\Billie Album Collection.runtimeconfig.json
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\bin\Debug\net5.0\Billie Album Collection.runtimeconfig.dev.json
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\bin\Debug\net5.0\Billie Album Collection.dll
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\bin\Debug\net5.0\ref\Billie Album Collection.dll
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\bin\Debug\net5.0\Billie Album Collection.pdb
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\bin\Debug\net5.0\Album.Business.dll
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\bin\Debug\net5.0\Album.Infrastructure.dll
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\bin\Debug\net5.0\Album.Business.pdb
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\bin\Debug\net5.0\Album.Infrastructure.pdb
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.csprojAssemblyReference.cache
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.AssemblyInfoInputs.cache
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.AssemblyInfo.cs
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.csproj.CoreCompileInputs.cache
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.csproj.CopyComplete
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.dll
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\obj\Debug\net5.0\ref\Billie Album Collection.dll
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.pdb
+C:\Users\Izabella\Documents\GitHub\Billie-s-Collection\Billie Album Collection\obj\Debug\net5.0\Billie Album Collection.genruntimeconfig.cache

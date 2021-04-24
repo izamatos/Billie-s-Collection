@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Billie Album Collection/1.0.0": {
+        "dependencies": {
+          "Album.Business": "1.0.0"
+        },
+        "runtime": {
+          "Billie Album Collection.dll": {}
+        }
+      },
+      "Album.Business/1.0.0": {
+        "dependencies": {
+          "Album.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Album.Business.dll": {}
+        }
+      },
+      "Album.Infrastructure/1.0.0": {
+        "runtime": {
+          "Album.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Billie Album Collection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Album.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Album.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

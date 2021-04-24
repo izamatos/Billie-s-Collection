@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Billie Album Collection\\Billie Album Collection.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Album.Business\\Album.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Album.Business\\Album.Business.csproj",
+        "projectName": "Album.Business",
+        "projectPath": "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Album.Business\\Album.Business.csproj",
+        "packagesPath": "C:\\Users\\Izabella\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Album.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Izabella\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Album.Infrastructure\\Album.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Album.Infrastructure\\Album.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Album.Infrastructure\\Album.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Album.Infrastructure\\Album.Infrastructure.csproj",
+        "projectName": "Album.Infrastructure",
+        "projectPath": "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Album.Infrastructure\\Album.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Izabella\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Album.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Izabella\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Billie Album Collection\\Billie Album Collection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Billie Album Collection\\Billie Album Collection.csproj",
+        "projectName": "Billie Album Collection",
+        "projectPath": "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Billie Album Collection\\Billie Album Collection.csproj",
+        "packagesPath": "C:\\Users\\Izabella\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Billie Album Collection\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Izabella\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Album.Business\\Album.Business.csproj": {
+                "projectPath": "C:\\Users\\Izabella\\Documents\\GitHub\\Billie-s-Collection\\Album.Business\\Album.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
