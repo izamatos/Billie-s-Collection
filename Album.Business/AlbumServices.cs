@@ -94,10 +94,7 @@ namespace Business
 
                 SaveAlbum(newAlbum);
 
-                Console.WriteLine("Would you like to create another album? Y/N");
-                string option = Console.ReadLine();
-
-                if (option.ToUpper() == "N")
+                if (CheckAnswer("Would you like to create another album?", "Y", "N") == "N")
                     break;
             }
         }
@@ -248,8 +245,6 @@ namespace Business
 
             }
         }
-
-
         public static void CreatePlaylist()
         {
             List<Album> albums = ReadAlbuns();
@@ -291,11 +286,23 @@ namespace Business
 
             ShowMusic(playList);
         }
-
         public static void WaitForKey()
         {
             Console.WriteLine("Press any key to go back to the main menu...");
             Console.ReadKey();
+        }
+        public static string CheckAnswer(string message, string firstOption, string secondOption)
+        {
+            string answer = "";
+
+            while (answer.ToLower() != firstOption.ToLower() && answer.ToLower() != secondOption.ToLower())
+            {
+                Console.WriteLine($"{message} - [{firstOption}/{secondOption}]");
+
+                answer = Console.ReadLine();
+            }
+
+            return answer.ToUpper();
         }
     }
 }

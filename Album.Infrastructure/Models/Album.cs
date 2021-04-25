@@ -35,23 +35,30 @@ namespace Infrastructure.Models
                 string musicName = Console.ReadLine();
 
                 Console.WriteLine("Music Length:");
-                decimal length = decimal.Parse(Console.ReadLine());
+                decimal length = decimal.Parse(Console.ReadLine().Replace(".", ","));
 
-                Console.WriteLine("Is it a favorite song? [S/N]");
-                string resposta = Console.ReadLine();
-
-                bool isFavorite = resposta.ToUpper() == "S";
+                bool isFavorite = CheckAnswer("Is this a favorite music?", "Y", "N") == "Y";
 
                 Music newMusic = new(musicName, length, isFavorite);
 
                 Musics.Add(newMusic);
 
-                Console.WriteLine("Do you want to add some more music? [Y/N]");
-                string option = Console.ReadLine();                
-
-                if (option.ToUpper() == "N")
+                if (CheckAnswer("Would you like to add another music?", "Y", "N") == "N")
                     break;
             }
+        }
+
+        private static string CheckAnswer(string message, string firstOption, string secondOption)
+        {
+            string answer = "";
+
+            while (answer.ToLower() != firstOption.ToLower() && answer.ToLower() != secondOption.ToLower())
+            {
+                Console.WriteLine($"{message} - [{firstOption}/{secondOption}]");
+
+                answer = Console.ReadLine();
+            }
+            return answer.ToUpper();
         }
     }
 }
