@@ -135,6 +135,7 @@ namespace Business
             {
                 Console.WriteLine($"{musics.IndexOf(music) + 1}) {music.Title} - Length: {music.Length}  Favorite: {music.IsFavorite}");
             }
+
             Console.WriteLine("=======================================================");
 
             WaitForKey();
@@ -147,8 +148,8 @@ namespace Business
             int option = int.Parse(Console.ReadLine());
 
             List<Album> albums = ReadAlbuns();
+            List<Album> answerList = new();
 
-            List<Album> listanswer = new();
             switch (option)
             {
                 case 1:
@@ -156,7 +157,7 @@ namespace Business
 
                     string albumTitle = Console.ReadLine();
 
-                    listanswer = albums
+                    answerList = albums
                         .Where(album => album.Title.ToLower().Contains(albumTitle.ToLower()))
                         .ToList();
                     break;
@@ -166,7 +167,7 @@ namespace Business
 
                     int releaseYear = int.Parse(Console.ReadLine());
 
-                    listanswer = albums
+                    answerList = albums
                         .Where(album => album.Year == releaseYear)
                         .ToList();
                     break;
@@ -176,16 +177,16 @@ namespace Business
 
                     string bandName = Console.ReadLine();
 
-                    listanswer = albums
+                    answerList = albums
                         .Where(album => album.Band.ToLower().Contains(bandName.ToLower()))
                         .ToList();
                     break;
             }
 
-            if (listanswer.Count > 0)
-                ShowAlbuns(listanswer);
+            if (answerList.Count > 0)
+                ShowAlbuns(answerList);
             else
-            { 
+            {
                 Console.WriteLine("No albums matched your search!");
                 WaitForKey();
 

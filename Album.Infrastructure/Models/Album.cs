@@ -46,8 +46,8 @@ namespace Infrastructure.Models
 
                 Musics.Add(newMusic);
 
-                Console.WriteLine("Do you want to add some more music? [S/N]");
-                string option = Console.ReadLine();
+                Console.WriteLine("Do you want to add some more music? [Y/N]");
+                string option = Console.ReadLine();                
 
                 if (option.ToUpper() == "N")
                     break;
