@@ -192,7 +192,7 @@ namespace Business
         }
         public static void SerachMusicsInAlbum()
         {
-            Console.WriteLine("Do you want to search by \n 1 - Title \n 3 - Band");
+            Console.WriteLine("Do you want to search by \n 1 - Title \n 2 - Band");
 
             int option = int.Parse(Console.ReadLine());
 
